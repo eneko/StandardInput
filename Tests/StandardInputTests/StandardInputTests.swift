@@ -1,5 +1,5 @@
 import XCTest
-@testable import StandardInput
+import StandardInput
 
 final class StandardInputTests: XCTestCase {
     func testDefault() {
